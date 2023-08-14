@@ -3,6 +3,7 @@
 # Modern 2048
 
 A modern Version of the classic 2048 Game (with mica)
+**Works with windows 11 only**
 
 ## Visuals
 
