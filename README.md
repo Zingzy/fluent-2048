@@ -1,8 +1,8 @@
 <p align="center"> <img style="width:150px; width: 150px" src="https://github.com/Zingzy/modern-2048/assets/90309290/65babf87-5db3-4b9d-8c34-6ff86974bb5b"></p>
 
-# Modern 2048
+# Fluent 2048
 
-A modern Version of the classic 2048 Game (with mica)
+A Fluent and modern Version of the classic 2048 Game (with mica)
 
 **Works with windows 11 only**
 
