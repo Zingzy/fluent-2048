@@ -6,9 +6,15 @@ A Fluent and modern Version of the classic 2048 Game (with mica)
 
 **Works with windows 11 only**
 
+## Features
+
+- Modern Design with Mica
+- Reset Button
+- HighScore tracking
+
 ## Visuals
 
-![image](https://github.com/Zingzy/fluent-2048/assets/90309290/387f160f-49f1-4c73-a514-c9ab9372dc65)
+![image](https://github.com/Zingzy/fluent-2048/assets/90309290/e28d2066-1f10-4faa-a6f2-a6c00d60d5a0)
 
 ## Download Links
 
@@ -19,6 +25,12 @@ A Fluent and modern Version of the classic 2048 Game (with mica)
 To give feedback, ask a question or make a feature request, you can either use the [Github Discussions](https://github.com/Zingzy/fluent-2048/discussions) 
 
 Bugs are logged using the github issue system. To report a bug, simply [open a new issue](https://github.com/Zingzy/fluent-2048/issues/new).
+
+## what's next
+
+- option for users to Track thier in game time
+- Option to undo a move
+- A dedicated Settings page (To Tweak a few things like backdrop style, app theme, board size, board color, etc..)
 
 #
 
