@@ -11,6 +11,8 @@ A Fluent and modern Version of the classic 2048 Game (with mica)
 - Modern Design with Mica
 - Reset Button
 - HighScore tracking
+- Pin Mode
+- Custom Backdrop Materials and window styles
 
 ## Visuals
 
