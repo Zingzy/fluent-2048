@@ -16,9 +16,11 @@ A Fluent and modern Version of the classic 2048 Game (with mica)
 
 ## Visuals
 
-![image](https://github.com/Zingzy/fluent-2048/assets/90309290/e28d2066-1f10-4faa-a6f2-a6c00d60d5a0)
+![screenshot-1](https://github.com/Zingzy/fluent-2048/assets/90309290/a21e581d-3956-42ab-853c-e01d58331480)
 
 ## Download Links
+
+Latest Release : **V1.0.3**
 
 [![Github tag](https://badgen.net/github/tag/Zingzy/fluent-2048)](https://github.com/Zingzy/fluent-2048/releases)
 
@@ -32,7 +34,7 @@ Bugs are logged using the github issue system. To report a bug, simply [open a n
 
 - option for users to Track thier in game time
 - Option to undo a move
-- A dedicated Settings page (To Tweak a few things like backdrop style, app theme, board size, board color, etc..)
+- Add options to change the grid size, button themes, etc. in the settings
 
 #
 
