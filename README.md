@@ -18,6 +18,10 @@ A Fluent and modern Version of the classic 2048 Game (with mica)
 
 ![screenshot-1](https://github.com/Zingzy/fluent-2048/assets/90309290/a21e581d-3956-42ab-853c-e01d58331480)
 
+### Video Demonstratio
+
+https://github.com/Zingzy/fluent-2048/assets/90309290/76c432aa-dac9-4298-bdaa-7f9116dae766
+
 ## Download Links
 
 Latest Release : **V1.0.3**
