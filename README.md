@@ -23,7 +23,7 @@
 - Custom Fluent Modal Boxes
 
 &nbsp;
-## Visuals
+# Visuals
 
 <table>
   <tr>
@@ -33,19 +33,28 @@
   </tr>
 </table>
 
-## Download Links
+[Click here](#-gallery) to view the full gallery
 
-Latest Release : **V1.0.4**
+# Download Links
 
-Download now from Github: [![Github tag](https://badgen.net/github/tag/Zingzy/fluent-2048)](https://github.com/Zingzy/fluent-2048/releases)
+<table>
+  <tr>
+    <td width="70%"> 
+      <b>The stable version of the app is available at Github Releases.</b> 
+    </td>
+    <td width="30%">
+      <a href="https://github.com/Zingzy/fluent-2048/releases/latest"><img src="https://github.com/Zingzy/fluent-2048/assets/90309290/a786b240-ff01-4c18-bf7d-7005a80c4aa1"/></a>
+    </td>
+  </tr>
+</table>
 
-## Feedback / Issues
+# Feedback / Issues
 
 To give feedback, ask a question or make a feature request, you can either use the [Github Discussions](https://github.com/Zingzy/fluent-2048/discussions) 
 
 Bugs are logged using the github issue system. To report a bug, simply [open a new issue](https://github.com/Zingzy/fluent-2048/issues/new).
 
-## what's next
+# what's next
 
 - option for users to Track thier in game time
 - Option to undo a move
@@ -57,7 +66,7 @@ Any Other suggestions would be appreciated ...
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Zingzy/fluent-2048/graphs/commit-activity) [![Last-Commit](https://badgen.net/github/last-commit/Zingzy/fluent-2048)](https://github.com/zingzy/fluent-2048/commits) [![issues](https://badgen.net/github/issues/Zingzy/fluent-2048)](https://github.com/Zingzy/fluent-2048/issues)
 
-## Gallery
+# Gallery
 
 ### Color Schemes
 
