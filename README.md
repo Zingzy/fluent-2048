@@ -65,7 +65,7 @@
       <b>The stable version of the app is available at Github Releases.</b> 
     </td>
     <td width="30%">
-      <a href="https://github.com/Zingzy/fluent-2048/releases/latest"><img src="https://github.com/Zingzy/fluent-2048/assets/90309290/a786b240-ff01-4c18-bf7d-7005a80c4aa1"/></a>
+      <a href="https://github.com/Zingzy/fluent-2048/releases/latest"><img src="https://i.imgur.com/ydZp1wW.png"/></a>
     </td>
   </tr>
 </table>
