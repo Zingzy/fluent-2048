@@ -15,7 +15,7 @@
 ---
 
 
-<detail>
+<details>
 <summary>📑 Table Of Contents </summary>
 
   - [✨ Features](#-features)
@@ -25,7 +25,7 @@
   - [💡 What's Next](#-whats-next)
   - [🎨 Gallery](#-gallery)
 
-</detail>
+</details>
 
 ---
 
