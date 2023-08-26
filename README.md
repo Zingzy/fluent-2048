@@ -24,7 +24,7 @@
   - [📝 FeedBacks and Issues](#-feedback--issues)
   - [💡 What's Next](#-whats-next)
   - [🎨 Gallery](#-gallery)
-  - [📽️ Videos](#-videos)
+  - [📽️ Videos](#%EF%B8%8F-videos)
 
 </details>
 
