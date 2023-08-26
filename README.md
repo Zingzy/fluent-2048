@@ -1,8 +1,14 @@
-<p align="center"> <img style="width:150px; width: 150px" src="https://github.com/Zingzy/fluent-2048/assets/90309290/65babf87-5db3-4b9d-8c34-6ff86974bb5b"></p>
+<image src='https://github.com/Zingzy/fluent-2048/assets/90309290/d9faa68c-e4aa-4e8f-a5a8-e3b3fcf4fb9f'/>
+&nbsp;
 
-# Fluent 2048
-
-A Fluent and modern Version of the classic 2048 Game (with mica)
+<table>
+  <tr>
+    <td width="15%"><image src='https://github.com/Zingzy/fluent-2048/assets/90309290/65babf87-5db3-4b9d-8c34-6ff86974bb5b'/></td>
+    <td width="75%"><h1>Fluent 2048</h1>
+                    <i>A Fluent and modern Version of the classic 2048 Game (with mica)</i><br><br>
+    </td>
+  </tr>
+</table>
 
 **Works with windows 11 only**
 
@@ -16,15 +22,16 @@ A Fluent and modern Version of the classic 2048 Game (with mica)
 - Different Color Schemes
 - Custom Fluent Modal Boxes
 
+&nbsp;
 ## Visuals
 
-![2048_EmQX1oLZZU](https://github.com/Zingzy/fluent-2048/assets/90309290/a8517704-69aa-4571-9804-09d389eca630)
-
-Scroll Down to see the full gallery ...
-
-### Video Demonstratio
-
-https://github.com/Zingzy/fluent-2048/assets/90309290/655934af-5e21-47d7-bbf7-9dc86f7a0d52
+<table>
+  <tr>
+    <td width="33%"><image src='https://github.com/Zingzy/fluent-2048/assets/90309290/a8517704-69aa-4571-9804-09d389eca630'/></td>
+    <td width="33%"><image src='https://user-images.githubusercontent.com/90309290/262067162-50513fcd-41ed-4396-b845-61a4f4493d87.png'/></td>
+    <td width="33%"><image src='https://github.com/Zingzy/fluent-2048/assets/90309290/62d060c5-2f75-4c1e-802b-2cb64e710bbd'/></td>
+  </tr>
+</table>
 
 ## Download Links
 
@@ -54,25 +61,81 @@ Any Other suggestions would be appreciated ...
 
 ### Color Schemes
 
-![2048_hLtSJhmA8J](https://github.com/Zingzy/fluent-2048/assets/90309290/0c778324-7553-484a-9cf4-bdb78b8477ca)
-![2048_trmQY5VP3n](https://github.com/Zingzy/fluent-2048/assets/90309290/85785bff-660e-4c8f-b4e7-9f568d9f6180)
-![2048_bfJxnssvIQ](https://github.com/Zingzy/fluent-2048/assets/90309290/717c7a04-d6bb-4841-826d-a342eb628897)
-![2048_EmQX1oLZZU](https://github.com/Zingzy/fluent-2048/assets/90309290/e8b63d14-e5a1-442d-929d-1582794c9202)
-![2048_trmQY5VP3n](https://github.com/Zingzy/fluent-2048/assets/90309290/b02800d4-e557-41df-954b-400006a62621)
-![2048_STIbgQk2CX](https://github.com/Zingzy/fluent-2048/assets/90309290/316666ac-416c-4c6e-82a4-4199b0041188)
-![2048_BrtnrhL3ya](https://github.com/Zingzy/fluent-2048/assets/90309290/9d6d6d15-25fd-4210-8f9a-f84505f2ffe0)
-![2048_JFpnmhQ2kY](https://github.com/Zingzy/fluent-2048/assets/90309290/2987133f-3737-4a6e-9797-9fea80e7a143)
+<table>
+  <tr>
+    <td width="50%"><image src='https://jinxed.cf/TiNmeS' /></td>
+    <td width="50%"><image src='https://jinxed.cf/o6tUSV' /></td>
+  </tr>
+  <tr>
+    <td width='50%' align='center'>Purpulish Theme</td>
+    <td width='50%' align='center'>Greenish Theme</td>
+  </tr>
+</table>
+
+&nbsp;
+
+<table>
+  <tr>
+    <td width="33%"><image src='https://jinxed.cf/8twjlf' /></td>
+    <td width="33%"><image src='https://jinxed.cf/VDPBjJ' /></td>
+    <td width="33%"><image src='https://jinxed.cf/rRhbfr' /></td>
+  </tr>
+  <tr>
+    <td width='33%' align='center'>Space Theme</td>
+    <td width='33%' align='center'>Desert Theme</td>
+    <td width='33%' align='center'>Jungle Theme</td>
+  </tr>
+  </table>
+      &nbsp;
+  <table>
+  <tr>
+    <td width="33%"><image src='https://jinxed.cf/IjLwSF' /></td>
+    <td width="33%"><image src='https://jinxed.cf/rhKKus' /></td>
+    <td width="33%"><image src='https://jinxed.cf/mMjFED' /></td>
+  </tr>
+  <tr>
+    <td width='33%' align='center'>Candy Theme</td>
+    <td width='33%' align='center'>Ocean Theme</td>
+    <td width='33%' align='center'>Honey Bee Theme</td>
+  </tr>
+</table>
+
+&nbsp;
 
 ### Pin Mode & Settings Page
 
-![2048_WJLmnbh1mV](https://github.com/Zingzy/fluent-2048/assets/90309290/7406fa28-56e3-4246-81d8-e0f258299c72)
+<table>
+  <tr>
+    <td width="33%"><image src='https://jinxed.cf/JkxXAo' /></td>
+    <td width="33%"><image src='https://jinxed.cf/w4BBqC' /></td>
+    <td width="33%"><image src='https://jinxed.cf/8F5k30' /></td>
+  </tr>
+  <tr>
+    <td width='33%' align='center'>Pin Mode</td>
+    <td width='33%' align='center'>Backdrop and Windows Style Setting</td>
+    <td width='33%' align='center'>Color Scheme Setting</td>
+  </tr>
+</table>
 
+&nbsp;
 
-### Window Styles & Settings page
+### Window Styles & Backdrop Materials
 
-![2048_iuXkK14VQI](https://github.com/Zingzy/fluent-2048/assets/90309290/50513fcd-41ed-4396-b845-61a4f4493d87)
-![2048_Un1el5goXW](https://github.com/Zingzy/fluent-2048/assets/90309290/d1c7de03-3cba-4711-a4be-b0453550916a)
-![2048_u0261soJ9U](https://github.com/Zingzy/fluent-2048/assets/90309290/47edcf9e-d2ef-4e50-b80c-4cae58b1f6a8)
-![2048_tx2Vw31CNX](https://github.com/Zingzy/fluent-2048/assets/90309290/94cf91f4-1acd-4dbd-876e-9d83b959f789)
+<table>
+  <tr>
+    <td width="33%"><image src='https://jinxed.cf/fCH91a' /></td>
+    <td width="33%"><image src='https://jinxed.cf/3yWEcN' /></td>
+    <td width='33%'><image src='https://jinxed.cf/6vTpyd' /></td>
+  </tr>
+  <tr>
+    <td width='33%' align='center'>Win7</td>
+    <td width='33%' align='center'>Acrylic</td>
+    <td width='33%' align='center'>Inverse</td>
+  </tr>
+</table>
+
+#
+
+https://github.com/Zingzy/fluent-2048/assets/90309290/d64ac9ad-305f-4923-b4d4-d9532bcad63e
 
 # 
