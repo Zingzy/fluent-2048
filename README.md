@@ -24,6 +24,7 @@
   - [📝 FeedBacks and Issues](#-feedback--issues)
   - [💡 What's Next](#-whats-next)
   - [🎨 Gallery](#-gallery)
+  - [📽️ Videos](#-videos)
 
 </details>
 
@@ -90,7 +91,7 @@ Any Other suggestions would be appreciated ...
 
 ### 🎨 Gallery
 
-- 🌈 **Color Schemes**
+- **`🌈 Color Schemes`**
 
 <table>
   <tr>
@@ -133,7 +134,7 @@ Any Other suggestions would be appreciated ...
 
 &nbsp;
 
-- 📌⚙️ **Pin Mode & Settings Page**
+- **`📌⚙️ Pin Mode & Settings Page`**
 
 <table>
   <tr>
@@ -150,7 +151,7 @@ Any Other suggestions would be appreciated ...
 
 &nbsp;
 
-- **Window Styles & Backdrop Materials**
+- **`Window Styles & Backdrop Materials`**
 
 <table>
   <tr>
@@ -165,7 +166,9 @@ Any Other suggestions would be appreciated ...
   </tr>
 </table>
 
-#
+---
+
+### 📽️ Videos
 
 https://github.com/Zingzy/fluent-2048/assets/90309290/d64ac9ad-305f-4923-b4d4-d9532bcad63e
 
