@@ -22,8 +22,10 @@
 - Different Color Schemes
 - Custom Fluent Modal Boxes
 
-&nbsp;
-# Visuals
+
+---
+
+## Visuals
 
 <table>
   <tr>
@@ -33,9 +35,11 @@
   </tr>
 </table>
 
-[Click here](#-gallery) to view the full gallery
+[Click here](#gallery) to view the full gallery
 
-# Download Links
+---
+
+### Download Links
 
 <table>
   <tr>
@@ -48,13 +52,16 @@
   </tr>
 </table>
 
-# Feedback / Issues
+---
+
+### Feedback / Issues
 
 To give feedback, ask a question or make a feature request, you can either use the [Github Discussions](https://github.com/Zingzy/fluent-2048/discussions) 
 
 Bugs are logged using the github issue system. To report a bug, simply [open a new issue](https://github.com/Zingzy/fluent-2048/issues/new).
 
-# what's next
+
+### what's next
 
 - option for users to Track thier in game time
 - Option to undo a move
@@ -62,13 +69,11 @@ Bugs are logged using the github issue system. To report a bug, simply [open a n
 
 Any Other suggestions would be appreciated ...
 
-#
+---
 
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Zingzy/fluent-2048/graphs/commit-activity) [![Last-Commit](https://badgen.net/github/last-commit/Zingzy/fluent-2048)](https://github.com/zingzy/fluent-2048/commits) [![issues](https://badgen.net/github/issues/Zingzy/fluent-2048)](https://github.com/Zingzy/fluent-2048/issues)
+### Gallery
 
-# Gallery
-
-### Color Schemes
+**Color Schemes**
 
 <table>
   <tr>
@@ -111,7 +116,7 @@ Any Other suggestions would be appreciated ...
 
 &nbsp;
 
-### Pin Mode & Settings Page
+**Pin Mode & Settings Page**
 
 <table>
   <tr>
@@ -128,7 +133,7 @@ Any Other suggestions would be appreciated ...
 
 &nbsp;
 
-### Window Styles & Backdrop Materials
+**Window Styles & Backdrop Materials**
 
 <table>
   <tr>
@@ -148,3 +153,5 @@ Any Other suggestions would be appreciated ...
 https://github.com/Zingzy/fluent-2048/assets/90309290/d64ac9ad-305f-4923-b4d4-d9532bcad63e
 
 # 
+
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Zingzy/fluent-2048/graphs/commit-activity) [![Last-Commit](https://badgen.net/github/last-commit/Zingzy/fluent-2048)](https://github.com/zingzy/fluent-2048/commits) [![issues](https://badgen.net/github/issues/Zingzy/fluent-2048)](https://github.com/Zingzy/fluent-2048/issues)
