@@ -14,6 +14,21 @@
 
 ---
 
+
+<detail>
+<summary>📑 Table Of Contents </summary>
+
+  - [✨ Features](#-features)
+  - [👀 Visuals](#-visuals)
+  - [⬇️ Download Links](#%EF%B8%8F-download-links)
+  - [📝 FeedBacks and Issues](#-feedback--issues)
+  - [💡 What's Next](#-whats-next)
+  - [🎨 Gallery](#-gallery)
+
+</detail>
+
+---
+
 ### ✨ Features
 
 - Modern Design with Mica
@@ -37,7 +52,7 @@
   </tr>
 </table>
 
-[Click here](#gallery) to view the full gallery
+[Click here](#-gallery) to view the full gallery
 
 ---
 
