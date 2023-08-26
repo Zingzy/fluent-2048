@@ -1,4 +1,4 @@
-<image src='https://github.com/Zingzy/fluent-2048/assets/90309290/d9faa68c-e4aa-4e8f-a5a8-e3b3fcf4fb9f'/>
+<image src='https://github.com/Zingzy/fluent-2048/assets/90309290/759dc77e-e3e5-48af-9df6-cae952b7b125'/>
 &nbsp;
 
 <table>
@@ -10,9 +10,11 @@
   </tr>
 </table>
 
-**Works with windows 11 only**
+‼️ **Works with windows 11 only**
 
-## Features
+---
+
+### ✨ Features
 
 - Modern Design with Mica
 - Reset Button
@@ -25,7 +27,7 @@
 
 ---
 
-## Visuals
+## 👀 Visuals
 
 <table>
   <tr>
@@ -39,7 +41,7 @@
 
 ---
 
-### Download Links
+### ⬇️ Download Links
 
 <table>
   <tr>
@@ -54,14 +56,14 @@
 
 ---
 
-### Feedback / Issues
+### 📝 Feedback / Issues
 
 To give feedback, ask a question or make a feature request, you can either use the [Github Discussions](https://github.com/Zingzy/fluent-2048/discussions) 
 
 Bugs are logged using the github issue system. To report a bug, simply [open a new issue](https://github.com/Zingzy/fluent-2048/issues/new).
 
 
-### what's next
+### 💡 what's next
 
 - option for users to Track thier in game time
 - Option to undo a move
@@ -71,9 +73,9 @@ Any Other suggestions would be appreciated ...
 
 ---
 
-### Gallery
+### 🎨 Gallery
 
-**Color Schemes**
+- 🌈 **Color Schemes**
 
 <table>
   <tr>
@@ -116,7 +118,7 @@ Any Other suggestions would be appreciated ...
 
 &nbsp;
 
-**Pin Mode & Settings Page**
+- 📌⚙️ **Pin Mode & Settings Page**
 
 <table>
   <tr>
@@ -133,7 +135,7 @@ Any Other suggestions would be appreciated ...
 
 &nbsp;
 
-**Window Styles & Backdrop Materials**
+- **Window Styles & Backdrop Materials**
 
 <table>
   <tr>
