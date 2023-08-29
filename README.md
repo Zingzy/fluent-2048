@@ -1,4 +1,5 @@
-<image src='https://github.com/Zingzy/fluent-2048/assets/90309290/759dc77e-e3e5-48af-9df6-cae952b7b125'/>
+<image src='https://github.com/Zingzy/fluent-2048/assets/90309290/4282af9a-e5e4-473d-8a3c-a93004c26a56'/>
+
 &nbsp;
 
 <table>
