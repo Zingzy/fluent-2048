@@ -4,7 +4,7 @@
 
 <table>
   <tr>
-    <td width="15%"><image src='https://github.com/Zingzy/fluent-2048/assets/90309290/65babf87-5db3-4b9d-8c34-6ff86974bb5b'/></td>
+    <td width="15%"><image src='https://jinxed.cf/WVklJ6'/></td>
     <td width="75%"><h1>Fluent 2048</h1>
                     <i>A Fluent and modern Version of the classic 2048 Game (with mica)</i><br><br>
     </td>
@@ -36,11 +36,13 @@
 - Modern Design with Mica
 - Reset Button
 - HighScore tracking
+- Undo functionality
+- Save your game state
 - Pin Mode
 - Custom Backdrop Materials and window styles
 - Different Color Schemes
+- Variety of shortcuts and a dedicated settings page to view (a and edit them in the future)
 - Custom Fluent Modal Boxes
-
 
 ---
 
@@ -48,11 +50,12 @@
 
 <table>
   <tr>
-    <td width="33%"><image src='https://github.com/Zingzy/fluent-2048/assets/90309290/a8517704-69aa-4571-9804-09d389eca630'/></td>
-    <td width="33%"><image src='https://user-images.githubusercontent.com/90309290/262067162-50513fcd-41ed-4396-b845-61a4f4493d87.png'/></td>
-    <td width="33%"><image src='https://github.com/Zingzy/fluent-2048/assets/90309290/62d060c5-2f75-4c1e-802b-2cb64e710bbd'/></td>
+    <td width="33%"><image src='https://jinxed.cf/w97u1Z'/></td>
+    <td width="33%"><image src='https://github.com/Zingzy/fluent-2048/assets/90309290/797b0f38-1294-4c24-9161-a9f704e2a9ec'/></td>
+    <td width="33%"><image src='https://github.com/Zingzy/fluent-2048/assets/90309290/ce1c60b5-4e45-45b0-b114-898f9894bd7f'/></td>
   </tr>
 </table>
+
 
 [Click here](#-gallery) to view the full gallery
 
@@ -83,7 +86,9 @@ Bugs are logged using the github issue system. To report a bug, simply [open a n
 ### 💡 what's next
 
 - option for users to Track thier in game time
-- Option to undo a move
+- Allow users to edit the game shortcuts
+- Some sound-effects to the game
+- Custom Onboarding (With tutorials)
 - Add options to change the grid size, etc. in the settings
 
 Any Other suggestions would be appreciated ...
@@ -135,35 +140,65 @@ Any Other suggestions would be appreciated ...
 
 &nbsp;
 
-- **`📌⚙️ Pin Mode & Settings Page`**
+- **`⚙️ Settings Page`**
 
 <table>
   <tr>
-    <td width="33%"><image src='https://jinxed.cf/JkxXAo' /></td>
-    <td width="33%"><image src='https://jinxed.cf/w4BBqC' /></td>
-    <td width="33%"><image src='https://jinxed.cf/8F5k30' /></td>
+    <td width="33%"><image src='https://jinxed.cf/A2Hnoz' /></td>
+    <td width="33%"><image src='https://github.com/Zingzy/fluent-2048/assets/90309290/039371c9-0253-4483-83c0-2f730b35130b' /></td>
+    <td width="33%"><image src='https://jinxed.cf/1h6Dna' /></td>
   </tr>
   <tr>
-    <td width='33%' align='center'>Pin Mode</td>
     <td width='33%' align='center'>Backdrop and Windows Style Setting</td>
     <td width='33%' align='center'>Color Scheme Setting</td>
+    <td width='33%' align='center'>Shortcuts Setting and about page</td>
   </tr>
 </table>
 
 &nbsp;
 
-- **`Window Styles & Backdrop Materials`**
+- **`Backdrop Materials`**
+
+<table>
+  <tr>
+    <td width="33%"><image src='https://github.com/Zingzy/fluent-2048/assets/90309290/f6ce0198-cbbf-454d-bf2c-a4450857a41d' /></td>
+    <td width="33%"><image src='https://jinxed.cf/3yWEcN' /></td>
+    <td width='33%'><image src='https://jinxed.cf/w97u1Z' /></td>
+  </tr>
+  <tr>
+    <td width='33%' align='center'>Mica</td>
+    <td width='33%' align='center'>Acrylic</td>
+    <td width='33%' align='center'>Mica Alt</td>
+  </tr>
+</table>
+
+- **`🪟📌 Window Styles & Pin Mode`**
 
 <table>
   <tr>
     <td width="33%"><image src='https://jinxed.cf/fCH91a' /></td>
-    <td width="33%"><image src='https://jinxed.cf/3yWEcN' /></td>
-    <td width='33%'><image src='https://jinxed.cf/6vTpyd' /></td>
+    <td width="33%"><image src='https://jinxed.cf/6vTpyd' /></td>
+    <td width='33%'><image src='https://jinxed.cf/czmyLW' /></td>
   </tr>
   <tr>
     <td width='33%' align='center'>Win7</td>
-    <td width='33%' align='center'>Acrylic</td>
     <td width='33%' align='center'>Inverse</td>
+    <td width='33%' align='center'>Pin Mode</td>
+  </tr>
+</table>
+
+- **`Custom Modal boxes and other settings pages`**
+
+<table>
+  <tr>
+    <td width="33%"><image src='https://github.com/Zingzy/fluent-2048/assets/90309290/a53fb69e-5644-49f7-a1a9-5faafcd50b58' /></td>
+    <td width="33%"><image src='https://jinxed.cf/cejZjC' /></td>
+    <td width='33%'><image src='https://jinxed.cf/9KPTk1' /></td>
+  </tr>
+  <tr>
+    <td width='33%' align='center'>Fluent Modal Box</td>
+    <td width='33%' align='center'>Shortcuts Settings</td>
+    <td width='33%' align='center'>About page</td>
   </tr>
 </table>
 
