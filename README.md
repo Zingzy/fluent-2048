@@ -172,6 +172,8 @@ Any Other suggestions would be appreciated ...
   </tr>
 </table>
 
+&nbsp;
+
 - **`🪟📌 Window Styles & Pin Mode`**
 
 <table>
@@ -186,6 +188,8 @@ Any Other suggestions would be appreciated ...
     <td width='33%' align='center'>Pin Mode</td>
   </tr>
 </table>
+
+&nbsp;
 
 - **`Custom Modal boxes and other settings pages`**
 
