@@ -206,7 +206,7 @@ Any Other suggestions would be appreciated ...
 
 ### 📽️ Videos
 
-https://github.com/Zingzy/fluent-2048/assets/90309290/d64ac9ad-305f-4923-b4d4-d9532bcad63e
+https://github.com/Zingzy/fluent-2048/assets/90309290/27027136-8f3a-44f1-8b33-4739311d65d0
 
 # 
 
