@@ -50,7 +50,7 @@
 
 <table>
   <tr>
-    <td width="33%"><image src='https://jinxed.cf/w97u1Z'/></td>
+    <td width="33%"><image src='https://cdn.discordapp.com/attachments/1132642817211125801/1150087431677296661/534970.png'/></td>
     <td width="33%"><image src='https://github.com/Zingzy/fluent-2048/assets/90309290/797b0f38-1294-4c24-9161-a9f704e2a9ec'/></td>
     <td width="33%"><image src='https://github.com/Zingzy/fluent-2048/assets/90309290/ce1c60b5-4e45-45b0-b114-898f9894bd7f'/></td>
   </tr>
@@ -101,8 +101,8 @@ Any Other suggestions would be appreciated ...
 
 <table>
   <tr>
-    <td width="50%"><image src='https://jinxed.cf/TiNmeS' /></td>
-    <td width="50%"><image src='https://jinxed.cf/o6tUSV' /></td>
+    <td width="50%"><image src='https://cdn.discordapp.com/attachments/1132642817211125801/1157038137936195654/598652.png' /></td>
+    <td width="50%"><image src='https://cdn.discordapp.com/attachments/1132642817211125801/1157038324318474360/610759.png' /></td>
   </tr>
   <tr>
     <td width='50%' align='center'>Purpulish Theme</td>
@@ -114,9 +114,9 @@ Any Other suggestions would be appreciated ...
 
 <table>
   <tr>
-    <td width="33%"><image src='https://jinxed.cf/8twjlf' /></td>
-    <td width="33%"><image src='https://jinxed.cf/VDPBjJ' /></td>
-    <td width="33%"><image src='https://jinxed.cf/rRhbfr' /></td>
+    <td width="33%"><image src='https://cdn.discordapp.com/attachments/1132642817211125801/1157038422133850182/141623.png' /></td>
+    <td width="33%"><image src='https://cdn.discordapp.com/attachments/1132642817211125801/1157038595333439609/771165.png' /></td>
+    <td width="33%"><image src='https://cdn.discordapp.com/attachments/1132642817211125801/1157038719459668048/707426.png' /></td>
   </tr>
   <tr>
     <td width='33%' align='center'>Space Theme</td>
@@ -127,9 +127,9 @@ Any Other suggestions would be appreciated ...
       &nbsp;
   <table>
   <tr>
-    <td width="33%"><image src='https://jinxed.cf/IjLwSF' /></td>
-    <td width="33%"><image src='https://jinxed.cf/rhKKus' /></td>
-    <td width="33%"><image src='https://jinxed.cf/mMjFED' /></td>
+    <td width="33%"><image src='https://cdn.discordapp.com/attachments/1132642817211125801/1157038820764692542/513104.png' /></td>
+    <td width="33%"><image src='https://cdn.discordapp.com/attachments/1132642817211125801/1157038952939798659/730606.png' /></td>
+    <td width="33%"><image src='https://cdn.discordapp.com/attachments/1132642817211125801/1157039085542719488/113275.png' /></td>
   </tr>
   <tr>
     <td width='33%' align='center'>Candy Theme</td>
@@ -144,9 +144,9 @@ Any Other suggestions would be appreciated ...
 
 <table>
   <tr>
-    <td width="33%"><image src='https://jinxed.cf/A2Hnoz' /></td>
+    <td width="33%"><image src='https://cdn.discordapp.com/attachments/1132642817211125801/1150087820074041354/372140.png' /></td>
     <td width="33%"><image src='https://github.com/Zingzy/fluent-2048/assets/90309290/039371c9-0253-4483-83c0-2f730b35130b' /></td>
-    <td width="33%"><image src='https://jinxed.cf/1h6Dna' /></td>
+    <td width="33%"><image src='https://cdn.discordapp.com/attachments/1132642817211125801/1150088036588204062/618198.png' /></td>
   </tr>
   <tr>
     <td width='33%' align='center'>Backdrop and Windows Style Setting</td>
@@ -163,7 +163,7 @@ Any Other suggestions would be appreciated ...
   <tr>
     <td width="33%"><image src='https://github.com/Zingzy/fluent-2048/assets/90309290/f6ce0198-cbbf-454d-bf2c-a4450857a41d' /></td>
     <td width="33%"><image src='https://jinxed.cf/3yWEcN' /></td>
-    <td width='33%'><image src='https://jinxed.cf/w97u1Z' /></td>
+    <td width='33%'><image src='https://cdn.discordapp.com/attachments/1132642817211125801/1157040109024186388/637685.png' /></td>
   </tr>
   <tr>
     <td width='33%' align='center'>Mica</td>
@@ -178,8 +178,8 @@ Any Other suggestions would be appreciated ...
 
 <table>
   <tr>
-    <td width="33%"><image src='https://jinxed.cf/fCH91a' /></td>
-    <td width="33%"><image src='https://jinxed.cf/6vTpyd' /></td>
+    <td width="33%"><image src='https://cdn.discordapp.com/attachments/1132642817211125801/1157039252769607852/530873.png' /></td>
+    <td width="33%"><image src='https://cdn.discordapp.com/attachments/1132642817211125801/1157038595333439609/771165.png' /></td>
     <td width='33%'><image src='https://jinxed.cf/czmyLW' /></td>
   </tr>
   <tr>
@@ -196,8 +196,8 @@ Any Other suggestions would be appreciated ...
 <table>
   <tr>
     <td width="33%"><image src='https://github.com/Zingzy/fluent-2048/assets/90309290/a53fb69e-5644-49f7-a1a9-5faafcd50b58' /></td>
-    <td width="33%"><image src='https://jinxed.cf/cejZjC' /></td>
-    <td width='33%'><image src='https://jinxed.cf/9KPTk1' /></td>
+    <td width="33%"><image src='https://cdn.discordapp.com/attachments/1132642817211125801/1150088809338376365/838011.png' /></td>
+    <td width='33%'><image src='https://cdn.discordapp.com/attachments/1132642817211125801/1150088636688253050/465349.png' /></td>
   </tr>
   <tr>
     <td width='33%' align='center'>Fluent Modal Box</td>
