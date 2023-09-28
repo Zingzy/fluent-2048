@@ -4,7 +4,7 @@
 
 <table>
   <tr>
-    <td width="15%"><image src='https://jinxed.cf/WVklJ6'/></td>
+    <td width="15%"><image src='https://cdn.discordapp.com/attachments/1132642817211125801/1157044727431053322/722340.png'/></td>
     <td width="75%"><h1>Fluent 2048</h1>
                     <i>A Fluent and modern Version of the classic 2048 Game (with mica)</i><br><br>
     </td>
@@ -162,7 +162,7 @@ Any Other suggestions would be appreciated ...
 <table>
   <tr>
     <td width="33%"><image src='https://github.com/Zingzy/fluent-2048/assets/90309290/f6ce0198-cbbf-454d-bf2c-a4450857a41d' /></td>
-    <td width="33%"><image src='https://jinxed.cf/3yWEcN' /></td>
+    <td width="33%"><image src='https://cdn.discordapp.com/attachments/1132642817211125801/1157044323217571910/787333.png' /></td>
     <td width='33%'><image src='https://cdn.discordapp.com/attachments/1132642817211125801/1157040109024186388/637685.png' /></td>
   </tr>
   <tr>
@@ -180,7 +180,7 @@ Any Other suggestions would be appreciated ...
   <tr>
     <td width="33%"><image src='https://cdn.discordapp.com/attachments/1132642817211125801/1157039252769607852/530873.png' /></td>
     <td width="33%"><image src='https://cdn.discordapp.com/attachments/1132642817211125801/1157038595333439609/771165.png' /></td>
-    <td width='33%'><image src='https://jinxed.cf/czmyLW' /></td>
+    <td width='33%'><image src='https://cdn.discordapp.com/attachments/1132642817211125801/1157044097064898791/348684.png' /></td>
   </tr>
   <tr>
     <td width='33%' align='center'>Win7</td>
