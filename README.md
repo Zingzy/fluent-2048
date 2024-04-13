@@ -261,6 +261,51 @@ https://github.com/Zingzy/fluent-2048/assets/90309290/27027136-8f3a-44f1-8b33-47
 
 ---
 
+### 📜 Fluent 2048 Changelog
+
+#### v2.0.1
+
+- Add option to change grid size
+- Add 5 new color schemes
+
+#### v1.0.5
+
+- You can now undo your actions with a simple click of a button
+- You can now save your progress and resume your game anytime you want
+- You can now choose Mica Alt/ Tabbed Material as one of the background options
+- You can now use various keyboard shortcuts to enhance your gaming experience
+- You can now learn more about us and our game in the new About section in the settings page
+- Changed App icon
+
+#### v1.0.4-fixed
+
+- Fixed an issue which caused the text not be visible when system is in light mode
+
+#### v1.0.4
+
+- Added support for different color schemes which can be changed via the settings
+- Added a new Game Over / Game Won dialog boxes which follows the fluent design
+- and a few minor app optimizations
+
+#### v1.0.3
+
+- Added a setting page where you can change stuffs like backdrop material and window style
+- Added option to enter the pin mode
+- Updated UI's visuals like Icons and Fonts
+- Updated the buttons colors to appear more contrasting and easier on eyes
+
+#### v1.0.2
+
+- Added Option to restart the game
+- Added High Score In the game
+- Changed the App name from **Modern 2048** to **Fluent 2048**
+
+#### v1.0.1
+
+- First Public Release of The Modern 2048
+
+---
+
 <h6 align="center">
 <img src="https://avatars.githubusercontent.com/u/90309290?v=4" height=30 title="zingzy Copyright">
 <br>
