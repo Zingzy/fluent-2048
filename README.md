@@ -24,7 +24,7 @@
 
 ## ⚡ Introduction
 
-🎮 **Fluent 2048** is a fresh take on the classic 2048 game. With `modern design`, `color schemes`, `grid sizes`, and `backdrops`, it's a game for everyone! Undo moves, pin mode, and game state backup are just a few features. Track your high scores and customize game shortcuts. **Note: This game is compatible with Windows 11 only.❗**
+🎮 **Fluent 2048** is a fresh take on the classic 2048 game. With `modern design`, `color schemes`, `grid sizes`, and `backdrops`, it's a game for everyone! Undo moves, pin mode, and game state backup are just a few features. Track your high scores and customize game shortcuts.
 
 ---
 
@@ -37,7 +37,7 @@
 - Different Grid Sizes
 - Different Color Schemes
 - HighScore tracking
-- Custom Backdrop Materials and window styles
+- Custom Backdrop Materials and window styles **(Does not work on Windows 10)**
 - Variety of shortcuts and a dedicated settings page to view (a and edit them in the future)
 
 ---
