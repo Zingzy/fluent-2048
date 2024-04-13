@@ -14,13 +14,12 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/github/v/release/zingzy/fluent-2048?logo=github" alt="GitHub release">
+<a href="https://github.com/zingzy/fluent-2048/releases/latest"><img src="https://img.shields.io/github/v/release/zingzy/fluent-2048?logo=github" alt="GitHub release"></a>
 <img src="https://img.shields.io/github/downloads/zingzy/fluent-2048/total?logo=github" alt="GitHub all releases">
 <img src="https://img.shields.io/github/last-commit/zingzy/fluent-2048?logo=github" alt="GitHub last commit">
 <img src="https://img.shields.io/github/commit-activity/m/zingzy/fluent-2048?logo=github" alt="GitHub commit activity">
 <img src="https://img.shields.io/github/issues/zingzy/fluent-2048?logo=github" alt="GitHub issues">
 <a href="https://spoo.me/discord"><img src="https://img.shields.io/discord/1192388005206433892?logo=discord" alt="Discord"></a>
-<a href="https://twitter.com/spoo_me"><img src="https://img.shields.io/twitter/follow/zingzy3?logo=twitter&label=%40zingzy3&color=0bf" alt="X (formerly Twitter) Follow"></a>
 </p>
 
 ## ⚡ Introduction
