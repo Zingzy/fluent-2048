@@ -4,7 +4,7 @@
 
 <table>
   <tr>
-    <td width="15%"><image src='https://cdn.discordapp.com/attachments/1132642817211125801/1157044727431053322/722340.png'/></td>
+    <td width="15%"><image src='https://raw.githubusercontent.com/zingzy/fluent-2048/main/screenshots/2048.png'/></td>
     <td width="75%"><h1>Fluent 2048</h1>
                     <i>A Fluent and modern Version of the classic 2048 Game (with mica)</i><br><br>
     </td>
@@ -33,16 +33,15 @@
 
 ### ✨ Features
 
-- Modern Design with Mica
-- Reset Button
-- HighScore tracking
+- Modern Design with Mica & MicaALT
 - Undo functionality
-- Save your game state
 - Pin Mode
-- Custom Backdrop Materials and window styles
+- Game State Backup
+- Different Grid Sizes
 - Different Color Schemes
+- HighScore tracking
+- Custom Backdrop Materials and window styles
 - Variety of shortcuts and a dedicated settings page to view (a and edit them in the future)
-- Custom Fluent Modal Boxes
 
 ---
 
@@ -50,9 +49,9 @@
 
 <table>
   <tr>
-    <td width="33%"><image src='https://cdn.discordapp.com/attachments/1132642817211125801/1150087431677296661/534970.png'/></td>
-    <td width="33%"><image src='https://github.com/Zingzy/fluent-2048/assets/90309290/797b0f38-1294-4c24-9161-a9f704e2a9ec'/></td>
-    <td width="33%"><image src='https://github.com/Zingzy/fluent-2048/assets/90309290/ce1c60b5-4e45-45b0-b114-898f9894bd7f'/></td>
+    <td width="33%"><image src='https://raw.githubusercontent.com/zingzy/fluent-2048/main/screenshots/micaALT.png'/></td>
+    <td width="33%"><image src='https://raw.githubusercontent.com/zingzy/fluent-2048/main/screenshots/windows7.png'/></td>
+    <td width="33%"><image src='https://raw.githubusercontent.com/zingzy/fluent-2048/main/screenshots/mica.png'/></td>
   </tr>
 </table>
 
@@ -65,8 +64,8 @@
 
 <table>
   <tr>
-    <td width="70%"> 
-      <b>The stable version of the app is available at Github Releases.</b> 
+    <td width="70%">
+      <b>The stable version of the app is available at Github Releases.</b>
     </td>
     <td width="30%">
       <a href="https://github.com/Zingzy/fluent-2048/releases/latest"><img src="https://i.imgur.com/ydZp1wW.png"/></a>
@@ -78,10 +77,9 @@
 
 ### 📝 Feedback / Issues
 
-To give feedback, ask a question or make a feature request, you can either use the [Github Discussions](https://github.com/Zingzy/fluent-2048/discussions) 
+To give feedback, ask a question or make a feature request, you can either use the [Github Discussions](https://github.com/Zingzy/fluent-2048/discussions)
 
 Bugs are logged using the github issue system. To report a bug, simply [open a new issue](https://github.com/Zingzy/fluent-2048/issues/new).
-
 
 ### 💡 what's next
 
@@ -89,20 +87,34 @@ Bugs are logged using the github issue system. To report a bug, simply [open a n
 - Allow users to edit the game shortcuts
 - Some sound-effects to the game
 - Custom Onboarding (With tutorials)
-- Add options to change the grid size, etc. in the settings
 
 Any Other suggestions would be appreciated ...
 
 ---
 
-### 🎨 Gallery
+### 🖼️ Gallery
+
+- **`📏 Grid Sizes`**
+
+<table>
+  <tr>
+    <td width="50%"><image src='https://raw.githubusercontent.com/zingzy/fluent-2048/main/screenshots/mica.png' /></td>
+    <td width="50%"><image src='https://raw.githubusercontent.com/zingzy/fluent-2048/main/screenshots/5x5.png' /></td>
+  </tr>
+  <tr>
+    <td width='50%' align='center'>4x4</td>
+    <td width='50%' align='center'>5x5</td>
+  </tr>
+</table>
+
+&nbsp;
 
 - **`🌈 Color Schemes`**
 
 <table>
   <tr>
-    <td width="50%"><image src='https://cdn.discordapp.com/attachments/1132642817211125801/1157038137936195654/598652.png' /></td>
-    <td width="50%"><image src='https://cdn.discordapp.com/attachments/1132642817211125801/1157038324318474360/610759.png' /></td>
+    <td width="50%"><image src='https://raw.githubusercontent.com/zingzy/fluent-2048/main/screenshots/purpulish.png' /></td>
+    <td width="50%"><image src='https://raw.githubusercontent.com/zingzy/fluent-2048/main/screenshots/greenish.png' /></td>
   </tr>
   <tr>
     <td width='50%' align='center'>Purpulish Theme</td>
@@ -110,13 +122,13 @@ Any Other suggestions would be appreciated ...
   </tr>
 </table>
 
-&nbsp;
+<br>
 
 <table>
   <tr>
-    <td width="33%"><image src='https://cdn.discordapp.com/attachments/1132642817211125801/1157038422133850182/141623.png' /></td>
-    <td width="33%"><image src='https://cdn.discordapp.com/attachments/1132642817211125801/1157038595333439609/771165.png' /></td>
-    <td width="33%"><image src='https://cdn.discordapp.com/attachments/1132642817211125801/1157038719459668048/707426.png' /></td>
+    <td width="33%"><image src='https://raw.githubusercontent.com/zingzy/fluent-2048/main/screenshots/space.png' /></td>
+    <td width="33%"><image src='https://raw.githubusercontent.com/zingzy/fluent-2048/main/screenshots/desert.png' /></td>
+    <td width="33%"><image src='https://raw.githubusercontent.com/zingzy/fluent-2048/main/screenshots/jungle.png' /></td>
   </tr>
   <tr>
     <td width='33%' align='center'>Space Theme</td>
@@ -124,17 +136,47 @@ Any Other suggestions would be appreciated ...
     <td width='33%' align='center'>Jungle Theme</td>
   </tr>
   </table>
-      &nbsp;
+
+<br>
+
   <table>
   <tr>
-    <td width="33%"><image src='https://cdn.discordapp.com/attachments/1132642817211125801/1157038820764692542/513104.png' /></td>
-    <td width="33%"><image src='https://cdn.discordapp.com/attachments/1132642817211125801/1157038952939798659/730606.png' /></td>
-    <td width="33%"><image src='https://cdn.discordapp.com/attachments/1132642817211125801/1157039085542719488/113275.png' /></td>
+    <td width="33%"><image src='https://raw.githubusercontent.com/zingzy/fluent-2048/main/screenshots/vibrant.png' /></td>
+    <td width="33%"><image src='https://raw.githubusercontent.com/zingzy/fluent-2048/main/screenshots/ocean.png' /></td>
+    <td width="33%"><image src='https://raw.githubusercontent.com/zingzy/fluent-2048/main/screenshots/honeyBee.png' /></td>
   </tr>
   <tr>
-    <td width='33%' align='center'>Candy Theme</td>
+    <td width='33%' align='center'>Vibrant Theme</td>
     <td width='33%' align='center'>Ocean Theme</td>
     <td width='33%' align='center'>Honey Bee Theme</td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td width="33%"><image src='https://raw.githubusercontent.com/zingzy/fluent-2048/main/screenshots/midnightSerenity.png' /></td>
+    <td width="33%"><image src='https://raw.githubusercontent.com/zingzy/fluent-2048/main/screenshots/mysticForest.png' /></td>
+    <td width="33%"><image src='https://raw.githubusercontent.com/zingzy/fluent-2048/main/screenshots/royalPalace.png' /></td>
+  </tr>
+  <tr>
+    <td width='33%' align='center'>Midnight Serenity Theme</td>
+    <td width='33%' align='center'>Mystic Forest Theme</td>
+    <td width='33%' align='center'>Royal Palace Theme</td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td width="50%"><image src='https://raw.githubusercontent.com/zingzy/fluent-2048/main/screenshots/winterWonderland.png' /></td>
+    <td width="50%"><image src='https://raw.githubusercontent.com/zingzy/fluent-2048/main/screenshots/translucent.png' /></td>
+  </tr>
+  <tr>
+    <td width='50%' align='center'>Winter Wonderland Theme</td>
+    <td width='50%' align='center'>Translucent Theme</td>
   </tr>
 </table>
 
@@ -144,14 +186,16 @@ Any Other suggestions would be appreciated ...
 
 <table>
   <tr>
-    <td width="33%"><image src='https://cdn.discordapp.com/attachments/1132642817211125801/1150087820074041354/372140.png' /></td>
-    <td width="33%"><image src='https://github.com/Zingzy/fluent-2048/assets/90309290/039371c9-0253-4483-83c0-2f730b35130b' /></td>
-    <td width="33%"><image src='https://cdn.discordapp.com/attachments/1132642817211125801/1150088036588204062/618198.png' /></td>
+    <td width="25%"><image src='https://raw.githubusercontent.com/zingzy/fluent-2048/main/screenshots/settings1.png'/></td>
+    <td width="25%"><image src='https://raw.githubusercontent.com/zingzy/fluent-2048/main/screenshots/settings2.png'/></td>
+    <td width="25%"><image src='https://raw.githubusercontent.com/zingzy/fluent-2048/main/screenshots/settings3.png'/></td>
+    <td width="25%"><image src='https://raw.githubusercontent.com/zingzy/fluent-2048/main/screenshots/settings4.png'/></td>
   </tr>
   <tr>
-    <td width='33%' align='center'>Backdrop and Windows Style Setting</td>
-    <td width='33%' align='center'>Color Scheme Setting</td>
-    <td width='33%' align='center'>Shortcuts Setting and about page</td>
+    <td width='25%' align='center'>Backdrop and Windows Style Setting</td>
+    <td width='25%' align='center'>Grid Size Setting</td>
+    <td width='25%' align='center'>Color Schemes Settings</td>
+    <td width='25%' align='center'>Advanced Settings</td>
   </tr>
 </table>
 
@@ -161,14 +205,14 @@ Any Other suggestions would be appreciated ...
 
 <table>
   <tr>
-    <td width="33%"><image src='https://github.com/Zingzy/fluent-2048/assets/90309290/f6ce0198-cbbf-454d-bf2c-a4450857a41d' /></td>
-    <td width="33%"><image src='https://cdn.discordapp.com/attachments/1132642817211125801/1157044323217571910/787333.png' /></td>
-    <td width='33%'><image src='https://cdn.discordapp.com/attachments/1132642817211125801/1157040109024186388/637685.png' /></td>
+    <td width="33%"><image src='https://raw.githubusercontent.com/zingzy/fluent-2048/main/screenshots/mica.png' /></td>
+    <td width="33%"><image src='https://raw.githubusercontent.com/zingzy/fluent-2048/main/screenshots/acrylic.png' /></td>
+    <td width='33%'><image src='https://raw.githubusercontent.com/zingzy/fluent-2048/main/screenshots/micaALT.png' /></td>
   </tr>
   <tr>
     <td width='33%' align='center'>Mica</td>
     <td width='33%' align='center'>Acrylic</td>
-    <td width='33%' align='center'>Mica Alt</td>
+    <td width='33%' align='center'>Mica ALT</td>
   </tr>
 </table>
 
@@ -178,9 +222,9 @@ Any Other suggestions would be appreciated ...
 
 <table>
   <tr>
-    <td width="33%"><image src='https://cdn.discordapp.com/attachments/1132642817211125801/1157039252769607852/530873.png' /></td>
-    <td width="33%"><image src='https://cdn.discordapp.com/attachments/1132642817211125801/1157038595333439609/771165.png' /></td>
-    <td width='33%'><image src='https://cdn.discordapp.com/attachments/1132642817211125801/1157044097064898791/348684.png' /></td>
+    <td width="33%"><image src='https://raw.githubusercontent.com/zingzy/fluent-2048/main/screenshots/windows7.png' /></td>
+    <td width="33%"><image src='https://raw.githubusercontent.com/zingzy/fluent-2048/main/screenshots/micaALT.png' /></td>
+    <td width='33%'><image src='https://raw.githubusercontent.com/zingzy/fluent-2048/main/screenshots/pinMode.png' /></td>
   </tr>
   <tr>
     <td width='33%' align='center'>Win7</td>
@@ -195,9 +239,9 @@ Any Other suggestions would be appreciated ...
 
 <table>
   <tr>
-    <td width="33%"><image src='https://github.com/Zingzy/fluent-2048/assets/90309290/a53fb69e-5644-49f7-a1a9-5faafcd50b58' /></td>
-    <td width="33%"><image src='https://cdn.discordapp.com/attachments/1132642817211125801/1150088809338376365/838011.png' /></td>
-    <td width='33%'><image src='https://cdn.discordapp.com/attachments/1132642817211125801/1150088636688253050/465349.png' /></td>
+    <td width="33%"><image src='https://raw.githubusercontent.com/zingzy/fluent-2048/main/screenshots/gameOver.png' /></td>
+    <td width="33%"><image src='https://raw.githubusercontent.com/zingzy/fluent-2048/main/screenshots/shortcutsSettings.png' /></td>
+    <td width='33%'><image src='https://raw.githubusercontent.com/zingzy/fluent-2048/main/screenshots/aboutWindow.png' /></td>
   </tr>
   <tr>
     <td width='33%' align='center'>Fluent Modal Box</td>
@@ -212,6 +256,6 @@ Any Other suggestions would be appreciated ...
 
 https://github.com/Zingzy/fluent-2048/assets/90309290/27027136-8f3a-44f1-8b33-4739311d65d0
 
-# 
+#
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Zingzy/fluent-2048/graphs/commit-activity) [![Last-Commit](https://badgen.net/github/last-commit/Zingzy/fluent-2048)](https://github.com/zingzy/fluent-2048/commits) [![issues](https://badgen.net/github/issues/Zingzy/fluent-2048)](https://github.com/Zingzy/fluent-2048/issues)
