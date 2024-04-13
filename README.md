@@ -2,36 +2,34 @@
 
 &nbsp;
 
-<table>
-  <tr>
-    <td width="15%"><image src='https://raw.githubusercontent.com/zingzy/fluent-2048/main/screenshots/2048.png'/></td>
-    <td width="75%"><h1>Fluent 2048</h1>
-                    <i>A Fluent and modern Version of the classic 2048 Game (with mica)</i><br><br>
-    </td>
-  </tr>
-</table>
+<h3 align="center">Fluent 2048</h3>
+<p align="center">A Fluent and modern Version of the classic 2048 Game</p>
 
-‼️ **Works with windows 11 only**
+<p align="center">
+    <a href="#-features"><kbd>🔥 Features</kbd></a>
+    <a href="#-visuals"><kbd>👀 Visuals</kbd></a>
+    <a href="#%EF%B8%8F-download-links" target="_blank"><kbd>⬇️ Download Links</kbd></a>
+    <a href="#-whats-next"><kbd>💡 What's Next</kbd></a>
+    <a href="#-gallery"><kbd>🎨 Gallery</kbd></a>
+</p>
 
----
+<p align="center">
+<img src="https://img.shields.io/github/v/release/zingzy/fluent-2048?logo=github" alt="GitHub release">
+<img src="https://img.shields.io/github/downloads/zingzy/fluent-2048/total?logo=github" alt="GitHub all releases">
+<img src="https://img.shields.io/github/last-commit/zingzy/fluent-2048?logo=github" alt="GitHub last commit">
+<img src="https://img.shields.io/github/commit-activity/m/zingzy/fluent-2048?logo=github" alt="GitHub commit activity">
+<img src="https://img.shields.io/github/issues/zingzy/fluent-2048?logo=github" alt="GitHub issues">
+<a href="https://spoo.me/discord"><img src="https://img.shields.io/discord/1192388005206433892?logo=discord" alt="Discord"></a>
+<a href="https://twitter.com/spoo_me"><img src="https://img.shields.io/twitter/follow/zingzy3?logo=twitter&label=%40zingzy3&color=0bf" alt="X (formerly Twitter) Follow"></a>
+</p>
 
+## ⚡ Introduction
 
-<details>
-<summary>📑 Table Of Contents </summary>
-
-  - [✨ Features](#-features)
-  - [👀 Visuals](#-visuals)
-  - [⬇️ Download Links](#%EF%B8%8F-download-links)
-  - [📝 FeedBacks and Issues](#-feedback--issues)
-  - [💡 What's Next](#-whats-next)
-  - [🎨 Gallery](#-gallery)
-  - [📽️ Videos](#%EF%B8%8F-videos)
-
-</details>
+🎮 **Fluent 2048** is a fresh take on the classic 2048 game. With `modern design`, `color schemes`, `grid sizes`, and `backdrops`, it's a game for everyone! Undo moves, pin mode, and game state backup are just a few features. Track your high scores and customize game shortcuts. **Note: This game is compatible with Windows 11 only.❗**
 
 ---
 
-### ✨ Features
+### 🔥 Features
 
 - Modern Design with Mica & MicaALT
 - Undo functionality
@@ -45,7 +43,13 @@
 
 ---
 
-## 👀 Visuals
+### 🕹️ How to Play
+
+Use your **arrow keys** to slide the tiles. When two tiles with the same number touch, they join and **double their value**. Keep adding them until you reach **2048**!
+
+---
+
+### 👀 Visuals
 
 <table>
   <tr>
@@ -54,7 +58,6 @@
     <td width="33%"><image src='https://raw.githubusercontent.com/zingzy/fluent-2048/main/screenshots/mica.png'/></td>
   </tr>
 </table>
-
 
 [Click here](#-gallery) to view the full gallery
 
@@ -256,6 +259,15 @@ Any Other suggestions would be appreciated ...
 
 https://github.com/Zingzy/fluent-2048/assets/90309290/27027136-8f3a-44f1-8b33-4739311d65d0
 
-#
+---
 
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Zingzy/fluent-2048/graphs/commit-activity) [![Last-Commit](https://badgen.net/github/last-commit/Zingzy/fluent-2048)](https://github.com/zingzy/fluent-2048/commits) [![issues](https://badgen.net/github/issues/Zingzy/fluent-2048)](https://github.com/Zingzy/fluent-2048/issues)
+<h6 align="center">
+<img src="https://avatars.githubusercontent.com/u/90309290?v=4" height=30 title="zingzy Copyright">
+<br>
+© zingzy . 2024
+
+All Rights Reserved</h6>
+
+<p align="center">
+	<a href="https://github.com/zingzy/fluent-2048/blob/master/LICENSE.txt"><img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=d9e0ee&colorA=363a4f&colorB=b7bdf8"/></a>
+</p>
