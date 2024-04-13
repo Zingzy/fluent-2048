@@ -95,7 +95,7 @@ Any Other suggestions would be appreciated ...
 
 ---
 
-### 🖼️ Gallery
+### 🎨 Gallery
 
 - **`📏 Grid Sizes`**
 
