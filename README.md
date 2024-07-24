@@ -1,6 +1,6 @@
-<image src='https://github.com/Zingzy/fluent-2048/assets/90309290/4282af9a-e5e4-473d-8a3c-a93004c26a56'/>
-
-&nbsp;
+<p align="center">
+<image src='https://github.com/user-attachments/assets/22bb8d58-8265-4ed7-8861-2a63a5f2db09' width="650px"/>
+</p>
 
 <h3 align="center">Fluent 2048</h3>
 <p align="center">A Fluent and modern Version of the classic 2048 Game</p>
